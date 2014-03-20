@@ -1,3 +1,4 @@
+alexrehb.com
 dig www.alexrehb.com +nostats +nocomments +nocmd
 # ;www.alexrehb.com.                     IN      A
 # www.alexrehb.com.              3592    IN      CNAME   alexrehb.github.io.
